@@ -1,16 +1,12 @@
-#animal-photos{
-	width:80vw;
-	height:100vh;
+#container{
+	width:90%;
+	height:90%;
 	margin:20px;
 	padding:20px;
 	border-radius:10px;
 	background-color:grey;
-	
 }
-#photo-heading{
-	text-align: center;
-}
-#images{
+#animal-photos{
 	display:grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	position:static;
